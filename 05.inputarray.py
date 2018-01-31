@@ -1,3 +1,4 @@
+#program to add values to the list as intergers
 myList = []
 counter = 0 
 while counter<10: #change this to true for infinite (unlimited) loop. also remove counter variables

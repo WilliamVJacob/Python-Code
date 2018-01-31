@@ -1,4 +1,5 @@
-s="12345 12345 12345 12345 12345"
+#program to print the number of word, total alphabet and total lines
+s="Hello my name is william"
 def file2string():
 	fp=open("a","r")
 	s=fp.read();

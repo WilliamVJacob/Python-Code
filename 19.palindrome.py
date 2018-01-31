@@ -1,3 +1,4 @@
+#program to check if a number is palindrome or not
 a=input("Enter a string");
 j=len(a)-1;
 out='a';

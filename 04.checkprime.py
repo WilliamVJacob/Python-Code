@@ -1,3 +1,4 @@
+#program to print all the prime no till 100
 #num=int(input("ENter a no:"));
 c=0;sum1=0;
 for j in range(2,101):

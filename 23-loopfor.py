@@ -1,3 +1,4 @@
+#program to run a loop
 lis=[1,2,3,4,5]
 for l1 in lis:
 	print(l1);#i=0;

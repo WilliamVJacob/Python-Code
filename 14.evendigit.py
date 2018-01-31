@@ -1,4 +1,6 @@
+#program to find all the numbers between 10 and 999 whose digits are even
 #a=int(input("Enter a no :"));
+
 arr=[];
 c=0;
 for i in range (10,990):

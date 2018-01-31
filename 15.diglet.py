@@ -1,3 +1,4 @@
+#program to find out the digits ,letter, and the special character in a string
 a=input("Enter alphanumeric character :");
 digit=0;
 letter=0;

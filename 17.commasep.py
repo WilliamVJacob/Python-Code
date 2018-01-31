@@ -1,15 +1,12 @@
+#program to enter number followed by commas and the storing those numbers in a list
 arr=[];r=0;
-a=input("ENter a number followed by commas :")
+a=input("ENter  numbers followed by commas :")
 l=a.split(",")
 m=''
 
 for c in a:
-#	r=r*10+int(c);	
-	
-	#print(a[5]);	
 	if(c!=','):
 		m=m+c;
-		#continue
 	else:
 	
 		arr.append(int(m));
@@ -17,7 +14,5 @@ for c in a:
 	
 
 	
-#print (m)
-#arr.append(l);
 arr.append(int(m));
 print(arr);

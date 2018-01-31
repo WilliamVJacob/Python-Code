@@ -1,3 +1,4 @@
+#program to find the reverse of the number 
 n=int(input("ENter the number"));
 rev=0;
 while (n!=0):

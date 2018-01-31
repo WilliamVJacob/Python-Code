@@ -1,3 +1,4 @@
+#program to find the square root of a number
 import math
 #a=input("Enter a number followed by commas");
 a="100,150,180"

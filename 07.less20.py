@@ -1,3 +1,4 @@
+#program to check where the number lies
 n=int(input("ENter a no:"));
 if(n<20):
 	if(n>10):
